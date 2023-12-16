@@ -45,16 +45,16 @@ The models are evaluated based on accuracy, confusion matrix, and classification
 ```bash
 git clone https://github.com/raghulajithn/sentimentalAnalysis.git
 ```
-2.**Navigate to the project directory:**
+2. **Navigate to the project directory:**
 ```bash
 
 cd sentimentalAnalysis
 ```
-3.**Install the required libraries:**
+3. **Install the required libraries:**
 ```bash
 pip install pandas matplotlib plotly nltk wordcloud scikit-learn
 ```
-4.**Run the Jupyter Notebook or Python script:**
+4. **Run the Jupyter Notebook or Python script:**
 ```bash
 python sentimentAnalysis.py
 ```
