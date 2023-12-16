@@ -44,9 +44,20 @@ The models are evaluated based on accuracy, confusion matrix, and classification
 
 ```bash
 git clone https://github.com/raghulajithn/sentimentalAnalysis.git
+```
+2.**Navigate to the project directory:**
+```bash
 
 cd sentimentalAnalysis
-
+```
+3.**Install the required libraries:**
+```bash
 pip install pandas matplotlib plotly nltk wordcloud scikit-learn
-
+```
+4.**Run the Jupyter Notebook or Python script:**
+```bash
 python sentimentAnalysis.py
+```
+
+## Conclusion
+Sentiment analysis on movie reviews provides valuable insights into audience reactions. The project demonstrates the application of machine learning techniques for sentiment classification, allowing users to understand and analyze sentiments expressed in textual content. Customize and extend the project to suit specific requirements and explore additional techniques for further improvements.
